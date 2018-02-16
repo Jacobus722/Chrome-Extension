@@ -1,0 +1,108 @@
+ Volume in drive D is Storage
+ Volume Serial Number is 64FB-43AB
+
+ Directory of D:\Projects\Git\Personal\rNet\images
+
+12/11/2015  09:32    <DIR>          .
+12/11/2015  09:32    <DIR>          ..
+02/09/2015  13:45           374,513 1.jpg
+02/11/2015  09:19            83,090 10.jpg
+02/11/2015  09:19            92,606 12-years.jpg
+02/11/2015  09:20            26,689 181642_1863007259994_3526037_n.jpg
+27/08/2015  09:04            27,346 185616_10150396267885237_6828450_n.jpg
+16/09/2015  12:55            94,431 2.jpg
+30/10/2015  14:13           231,544 3.jpg
+29/10/2015  10:32           224,543 4.jpg
+09/11/2015  13:06            14,391 5.jpg
+02/11/2015  09:19            77,059 51558185.jpg
+30/10/2015  14:20            68,885 6.jpg
+16/09/2015  13:04           244,161 7.jpg
+30/10/2015  14:20           182,961 8.jpg
+02/11/2015  09:20           329,411 Aaron.png
+12/10/2015  14:29           102,418 adrian at the beach.jpg
+19/10/2015  11:52           287,870 adrian wars.jpg
+24/07/2015  09:16           148,906 adrian.jpg
+23/10/2015  11:07            44,416 Adrian0898549.jpg
+31/07/2015  07:56           189,012 adrian2.jpg
+19/10/2015  11:45           156,641 AdrianHead2.png
+16/10/2015  11:34           316,874 adriankrjkvgj.jpg
+05/10/2015  13:32           146,587 adrianv111.jpg
+02/11/2015  09:20            66,677 AndyBrentDance.jpg
+02/11/2015  09:20            59,517 andy_brent.jpg
+17/06/2015  11:25            72,295 bane.jpg
+22/10/2015  14:29            31,837 barry.jpg
+02/11/2015  09:19           168,054 ben-hippy.jpg
+02/11/2015  09:19            77,944 berty.png
+02/11/2015  09:19            71,642 Cache all the things.jpg
+02/11/2015  09:19            44,714 coffee-gods.jpg
+02/11/2015  09:19            89,778 damn-it-man.png
+16/09/2015  12:55            94,431 dan.jpg
+16/09/2015  13:01            35,619 dan2.jpg
+16/09/2015  13:03           109,865 dan3.jpg
+16/09/2015  13:04           244,161 dan4.jpg
+16/09/2015  13:07           141,090 dan5.jpg
+07/10/2015  12:03           614,944 danagain.jpg
+07/10/2015  11:58           107,112 danfalls.jpg
+30/10/2015  14:23            43,738 dannnn.jpg
+07/10/2015  08:01           140,245 danped.jpg
+02/11/2015  09:19           218,718 dating.jpg
+02/11/2015  09:19           177,503 designers-assemble.jpg
+02/11/2015  09:19           175,820 eventure-independant-traders.jpg
+02/11/2015  09:19           394,141 eventure-matt-404.jpg
+02/11/2015  09:19           101,482 EventureMatt.png
+30/10/2015  14:15           435,414 fkjekjfe.jpg
+02/11/2015  09:19           100,708 gaywatch.jpg
+07/10/2015  12:12            83,867 getwellsoon.jpg
+02/11/2015  09:19           255,419 glee.jpg
+31/07/2015  12:49           636,372 group.jpg
+02/11/2015  09:20           424,635 gurnhillspongepants.jpg
+23/10/2015  12:24           238,783 ha.jpg
+12/06/2015  11:40           173,768 hodor.jpg
+02/11/2015  09:19           788,519 homer-steve.jpg
+02/11/2015  09:19            33,475 i-aint-getting-on-no-plane.jpg
+02/11/2015  09:20           404,141 Image1.jpg
+29/10/2015  09:54           209,899 IMG_5116.JPG
+02/11/2015  09:19            60,753 layjuff.jpg
+23/10/2015  11:59            46,780 lol.jpg
+02/11/2015  09:19           112,621 maintenance.jpg
+02/11/2015  09:19           266,159 mark-and-andy.png
+02/11/2015  09:19           422,098 Marky Golf.png
+13/10/2015  11:39           528,570 markyB.jpg
+02/11/2015  09:19           316,833 mattupsidedown.jpg
+17/09/2015  13:58           137,445 mattV2.jpg
+17/09/2015  13:51           178,519 matt_drake.jpg
+28/07/2015  11:42           606,785 mermaid.jpg
+02/11/2015  09:19           151,861 miltonator.png
+12/11/2015  09:32                 0 output.txt
+01/09/2015  12:00           629,778 parcelshop.jpg
+02/11/2015  09:19            64,735 perfect.jpg
+30/10/2015  14:36           265,437 porkins.jpg
+02/11/2015  09:20           275,764 rambling.jpg
+02/11/2015  09:20           580,073 Remarkable Cinema Rush.png
+22/10/2015  12:00         1,026,887 remarkasamable.jpg
+18/06/2015  08:04           169,346 sam+car.jpg
+28/07/2015  11:28           153,147 sam-1.png
+29/10/2015  10:32           224,543 sam.jpg
+29/09/2015  15:16            45,709 sammy.jpg
+28/07/2015  11:31           609,966 samramid.jpg
+28/07/2015  11:27           993,874 sams-weekend.jpg
+29/09/2015  15:19            37,496 samV22.jpg
+02/11/2015  09:19            32,133 Samwise.jpg
+02/11/2015  09:19           197,123 SCP.jpg
+14/08/2015  13:05           231,544 STAHP.jpg
+02/11/2015  09:19           134,331 steve1.png
+02/11/2015  09:19           138,416 superman_pic2.jpg
+31/07/2015  10:33           374,513 TeamTwat.jpg
+02/11/2015  09:19           215,109 the gurnhills.jpg
+11/06/2015  09:44           105,116 TheRock.jpg
+02/11/2015  09:19           376,127 Tim Tim Tim.jpg
+15/09/2015  14:57           117,391 Twinnuies.jpg
+02/11/2015  09:19           133,034 Uncle Albert-Matt.png
+03/09/2015  13:59           114,338 Untitled2.jpg
+15/09/2015  14:51           104,136 Untitled55555.jpg
+08/10/2015  09:57           207,203 Untitledgfrg5g5.jpg
+02/11/2015  09:19           189,085 warwick.jpg
+16/10/2015  08:42           188,649 yearbook.jpg
+29/10/2015  10:29           369,632 yourstimes.jpg
+              99 File(s)     21,663,740 bytes
+               2 Dir(s)  854,732,005,376 bytes free

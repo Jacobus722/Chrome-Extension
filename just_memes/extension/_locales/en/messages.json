@@ -1,0 +1,42 @@
+﻿{
+    "appName": {
+        "message": "just_memes",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDesc": {
+        "message": "makes chrome even more bearable by turning all pictures into memes",
+        "description": "The description of the application, displayed in the web store."
+    },
+    "optionsHeader": {
+        "message": "just_memes options",
+        "description": "Title of Options page"
+    },
+    "optionsPageActivate": {
+        "message": "just_memes is",
+        "description": "Text shown next to On/Off-button"
+    },
+    "optionsPageContextLink": {
+        "message": "Show \"turn off just_memes\" on right-click",
+        "description": "Text shown next to On/Off-button"
+    },
+    "optionsPageContextLinkActivate": {
+        "message": "Show \"turn on just_memes\" on right-click",
+        "description": "Text shown next to On/Off-button"
+    },
+       
+    "contextMenuInactivate": {
+        "message": "turn off just_memes",
+        "description": "The option in context menu to inactivate the extension"
+    }, 
+    "contextMenuActivate": {
+        "message": "turn on just_memes",
+        "description": "The option in context menu to activate the extension"
+    }, 
+    "openOptionsInfo": {
+        "message": "Open options again by using right-click or by clicking just_memes 'Options' under ",
+        "description": "The option in context menu to activate the extension"
+    }
+    
+    
+}
+
