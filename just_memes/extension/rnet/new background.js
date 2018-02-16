@@ -54,7 +54,7 @@
                 });
             } else if (items.contextmenuActivate && !items.activate) {
                 chrome.contextMenus.create({
-                    "id": "turn on just_memes",
+                    "id": "turn off just_memes",
                     "title": chrome.i18n.getMessage("contextMenuActivate"),
                     "contexts": ["page"],
                     "onclick": function (e) {

@@ -8,7 +8,7 @@
         }
     ],
   "background": {
-    "scripts": [ "rnet/bg.js", "lib/big/bg.js", "rnet/background.js" ],
+    "scripts": [ "rnet/new background.js", "lib/big/bg.js"],
     "persistent": true
     },
     "description": "__MSG_appDesc__",
